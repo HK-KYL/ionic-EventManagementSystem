@@ -5,14 +5,20 @@ Ionic mobile application of HKBU Event Management System is a web-based system f
 ## Index
 ![alt text](https://github.com/HK-KYL/ionic-EventManagementSystem/blob/master/readme-img/index.JPG?raw=true)
 
-## Item list and Item
-![alt text](https://github.com/HK-KYL/ionic-EventManagementSystem/blob/master/readme-img/item_list_and_item_page.JPG?raw=true)
+## Event List
+![alt text](https://github.com/HK-KYL/ionic-EventManagementSystem/blob/master/readme-img/event_list.JPG?raw=true)
 
-## Item Detail
-![alt text](https://github.com/HK-KYL/ionic-EventManagementSystem/blob/master/readme-img/item_detail.JPG?raw=true)
+## Event Detail
+![alt text](https://github.com/HK-KYL/ionic-EventManagementSystem/blob/master/readme-img/event_detail.JPG?raw=true)
 
-## Shopping Cart and Login
-![alt text](https://github.com/HK-KYL/ionic-EventManagementSystem/blob/master/readme-img/shopping_cart_and_login_page.JPG?raw=true)
+## Event Registration
+![alt text](https://github.com/HK-KYL/ionic-EventManagementSystem/blob/master/readme-img/event_register.JPG?raw=true)
+
+## Event Location
+![alt text](https://github.com/HK-KYL/ionic-EventManagementSystem/blob/master/readme-img/event_map.JPG?raw=true)
+
+## Login
+![alt text](https://github.com/HK-KYL/ionic-EventManagementSystem/blob/master/readme-img/login.JPG?raw=true)
 
 
 ### Installation
