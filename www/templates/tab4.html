@@ -1,0 +1,13 @@
+<ion-view title="Tab 4" id="page5">
+  <ion-content padding="true" class="has-header">
+    <ion-list id="tab4-list3">
+      <ion-item class="item-avatar" id="tab4-list-item10">
+        <img src="img/QDT80k7VTEmkiAG0yaQ1_cat.jpg">
+        <h2>{{username}}</h2>
+      </ion-item>
+      <ion-item id="tab4-list-item11" ui-sref="tabsController.tabLogin()" ng-if="username == ''"> Login </ion-item>
+      <ion-item id="tab4-list-item12"  ng-click="logout()" ng-if="username != ''"> Logoff </ion-item>
+      <ion-item id="tab4-list-item19" ui-sref="tabsController.tabEventList()" ng-if="username != ''">Registered Events</ion-item>
+    </ion-list>
+  </ion-content>
+</ion-view>

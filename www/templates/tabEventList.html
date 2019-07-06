@@ -1,0 +1,7 @@
+<ion-view title="Tab Event List" id="page6">
+  <ion-content padding="true" class="has-header">
+    <ion-list id="tabEventList-list4">
+      <ion-item id="tabEventList-list-item12"  ng-repeat="feed in feeds" ui-sref="tabsController.tabEventDetail( {id: feed.id} )">{{feed.name}}</ion-item>
+    </ion-list>
+  </ion-content>
+</ion-view>
